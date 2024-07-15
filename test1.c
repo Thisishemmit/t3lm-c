@@ -44,9 +44,11 @@ void requirement1() {
   }
 }
 
-void howToCheckPass(){
-    printf("\n");
-    printf("Fash tal9a lajawab ghaykon howa password dyal exe2.zip li kayn hna tama ghatl9a part 2 man had tamrin");
+void howToCheckPass() {
+  printf("\n");
+  printf("Fash tal9a lajawab ghaykon howa password dyal part2.zip li kayn hda "
+         "test1.c tama ghatl9a part 2 man had tamrin wli ghayakhdna l tamrin "
+         "zawj");
 }
 
 int main() {
