@@ -30,7 +30,7 @@ void requirement1() {
   // example for etage = 1
   printf("Example: ( awla (() awla ((()) ghadi ta3tina etage r9m 1\n");
   // example for etage = 4
-  printf("Example: )())()(( ghadi ta3tina etage r9m 4\n");
+  printf("Example: )())()(((((( ghadi ta3tina etage r9m 4\n");
   // example for etage = -1
   printf("Example: ()) awla )(()))( ghadi ta3tina etage r9m -1\n");
   char understood = 'a';
