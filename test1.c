@@ -55,5 +55,7 @@ int main() {
   printGuides();
   printf("\n");
   requirement1();
+  printf("\n");
+  howToCheckPass();
   return 0;
 }
